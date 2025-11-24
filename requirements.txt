@@ -1,0 +1,11 @@
+pymupdf
+pydantic
+sentence-transformers
+streamlit
+python-dotenv
+numpy
+transformers
+torch
+pillow
+pytesseract
+opencv-python
